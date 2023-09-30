@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1001Noites.br",1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-id="RecordNews.br",Record News (720p)
